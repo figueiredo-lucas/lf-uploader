@@ -1,3 +1,5 @@
+angular.module('lfUploader', []);
+
 angular.module("lfUploader").directive("lfFileUpload", function() {
     return {
         restrict: 'E',

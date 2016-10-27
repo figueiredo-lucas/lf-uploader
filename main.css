@@ -12,12 +12,12 @@
     background-size: 50px;
     cursor: pointer;
     opacity: 0.4;
-    transition: opacity 0.5s;
 }
 .pic-upload:hover {
     filter: invert(100%);
     -webkit-filter: invert(100%);
     opacity: 1;
+    transition: opacity 0.5s;
 }
 .uploaded-pic {
     width: 140px;

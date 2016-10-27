@@ -1,0 +1,11 @@
+{
+    "name": "LfUploader",
+    "version": "1.0.0",
+    "main": [
+        "relase/LfUploader.js",
+        "main.css"
+    ],
+    "dependencies": {
+        "angular": "1.5.8"
+    }
+}
