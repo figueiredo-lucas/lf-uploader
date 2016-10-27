@@ -2,7 +2,7 @@
     "name": "lf-uploader",
     "version": "v1.3",
     "main": [
-        "lf-uploader.js",
+        "release/lf-uploader.js",
         "main.css"
     ],
     "dependencies": {
