@@ -1,9 +1,8 @@
 {
-    "name": "lfUploader",
-    "version": "v1.2",
+    "name": "lf-uploader",
+    "version": "v1.3",
     "main": [
-        "lfUploader.js",
-        "lfFileUpload.js",
+        "lf-uploader.js",
         "main.css"
     ],
     "dependencies": {
