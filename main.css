@@ -1,0 +1,39 @@
+.file-upload-container {
+    display: inline-block;
+}
+.pic-upload {
+    border: 3px dashed #9E9E9E;
+    width: 140px;
+    height: 160px;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('images/camera.png');
+    background-size: 50px;
+    cursor: pointer;
+    opacity: 0.4;
+    transition: opacity 0.5s;
+}
+.pic-upload:hover {
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+    opacity: 1;
+}
+.uploaded-pic {
+    width: 140px;
+    height: 160px;
+    border-radius: 15px;
+}
+#close {
+    position: relative;
+    font-size: 30px;
+    top: -135px;
+    right: 28px;
+    font-weight: 700;
+    color: #9E9E9E;
+    cursor: pointer;
+}
+#close:hover {
+    color: #000;
+    opacity: 0.5;
+}
