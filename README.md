@@ -1,4 +1,4 @@
-# lf-uploader
+# LF Uploader
 
 Simple single image uploader with preview in AngularJS
 
