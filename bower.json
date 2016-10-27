@@ -3,7 +3,7 @@
     "version": "v1.3",
     "main": [
         "release/lf-uploader.js",
-        "main.css"
+        "lf-uploader.css"
     ],
     "dependencies": {
         "angular": "1.5.8"
