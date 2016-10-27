@@ -1,5 +1,5 @@
 {
-    "name": "LfUploader",
+    "name": "lfUploader",
     "version": "1.0.0",
     "main": [
         "relase/LfUploader.js",
