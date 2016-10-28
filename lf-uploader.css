@@ -1,5 +1,5 @@
 .file-upload-container {
-    display: inline-block;
+    display: inline;
 }
 .pic-upload {
     border: 3px dashed #9E9E9E;
