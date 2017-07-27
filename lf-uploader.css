@@ -12,6 +12,7 @@
     background-size: 50px;
     cursor: pointer;
     opacity: 0.4;
+    transition: 0.3s opacity linear
 }
 .pic-upload:hover {
     filter: invert(100%);
@@ -31,6 +32,7 @@
     font-weight: 700;
     color: #9E9E9E;
     cursor: pointer;
+    transition: 0.3s color linear;
 }
 #close:hover {
     color: #000;
